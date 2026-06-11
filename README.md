@@ -27,7 +27,8 @@ This project was created to practice audio handling, DOM manipulation and fronte
 
 https://udith-music-player.netlify.app/
 
+<img width="324" height="739" alt="image" src="https://github.com/user-attachments/assets/e488818e-a213-4612-bf90-78bf17bcd5ac" />
+
 ## Author
 
 Udith Kumar
-<img width="324" height="739" alt="image" src="https://github.com/user-attachments/assets/e488818e-a213-4612-bf90-78bf17bcd5ac" />
