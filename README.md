@@ -25,7 +25,7 @@ This project was created to practice audio handling, DOM manipulation and fronte
 
 ## Live Demo
 
-Add your Netlify link here
+https://udith-music-player.netlify.app/
 
 ## Author
 
